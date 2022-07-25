@@ -1,9 +1,9 @@
-## Ola, Eu sou Josivan da S. MArques
+## Ola, Eu sou Josivan da S. Marques
 
 <div align="center">
   <a href="https://github.com/josivanphs" style="display: flex">
-  <img style="height: 100%; flex-shrink: 1" src="https://github-readme-stats.vercel.app/api?username=josivanphs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img style="height: 100%; flex-shrink: 1" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josivanphs&layout=compact&langs_count=7&theme=dracula"/>
+  <img style="height: 180m; flex-shrink: 1" src="https://github-readme-stats.vercel.app/api?username=josivanphs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img style="height: 180m; flex-shrink: 1" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josivanphs&layout=compact&langs_count=7&theme=dracula"/>
     </a>
 </div>
 
