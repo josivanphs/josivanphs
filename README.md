@@ -1,4 +1,4 @@
-## Eaii, Eu sou Josivan Marques, criador de conteúdo de programação e tecnologia!!
+## Eaii eu sou Josivan Marques, criador de conteúdo de programação e tecnologia!!
   <a href="https://github.com/josivanphs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josivanphs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josivanphs&layout=compact&langs_count=7&theme=dracula"/>
